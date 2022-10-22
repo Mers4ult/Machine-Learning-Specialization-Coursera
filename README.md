@@ -193,5 +193,29 @@ Concluding, this is a course which I would recommend everyone to take. Not just 
 **Happy Learning :))**
 
 
+ ### Other repo links
+ 
+ https://github.com/azfarkhoja305/coursera-ML-in-python
+ 
+ https://github.com/akshitvjain/Coursera
+ 
+ https://github.com/aircloud/Andrew-machine-learning
+ 
+ https://github.com/aaneloy/Machine-Learning-Andrew-NG-Course-Programming-Assignments-using-Jupyter-Nootbook
+ 
+ https://github.com/eriansha/coursera-machine_learning
+ 
+ https://github.com/Ashish-Cloned-Forked-Repo/ipython-notebooks-Andrew-NG-course
+ 
+ https://github.com/topics/andrew-ng-course?l=jupyter+notebook
+ 
+ https://github.com/Nirzaree/MLWithPython
+ 
+ https://github.com/FahdSeddik/IBM-Machine-Learning-Professional-Certificate
+ 
+ https://github.com/krasserm/machine-learning-notebooks
+ 
+ https://github.com/tommyjcarpenter/coursera-ml-notebooks
+ 
  
  
